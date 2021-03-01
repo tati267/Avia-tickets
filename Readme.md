@@ -2,7 +2,7 @@
 
 In this project I have been practiced JavaScript programmig language following teachers explanations on the course "JavaScript + Vue for beginners on real projects" Denis Mescharyakov.
 
-![Avia-tickets app sceme](https://github.com/tati267/Avia-tickets/tree/master/img "App sceme")
+![Avia-tickets app scheme](img/scheme.jpg "App scheme")
 
 | Name of block | Meaning |
 |:-------:| :------:|
